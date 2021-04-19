@@ -17,9 +17,9 @@
             "mainClass": "net.velocloud.ConfigureEdgeAddressing",
             "projectName": "vco_client",
             "env": {
-                "VC_HOSTNAME": "localhost",
-                "VC_USERNAME": "super@velocloud.net",
-                "VC_PASSWORD": "vcadm!n",
+                "VC_HOSTNAME": "<vcoUrl>",
+                "VC_USERNAME": "<Enter username here>",
+                "VC_PASSWORD": "<Enter password here>",
                 "VC_ENTERPRISE_ID": 1,
                 "VC_EDGE_ID": 1,
                 "VERIFY_SSL": false
